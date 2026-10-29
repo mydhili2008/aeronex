@@ -1,0 +1,4 @@
+// Example architecture only — not a working production server.
+// Add a framework such as Express, validation, auth, rate limiting, and provider adapters.
+// Never put supplier/payment secrets in frontend code.
+// Suggested routes: GET /api/flights, POST /api/bookings, GET /api/bookings/:reference
